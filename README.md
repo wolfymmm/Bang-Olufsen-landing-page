@@ -5,9 +5,7 @@ A modern, responsive landing page for an electronics store. The page showcases p
 ## 🧩Technologies Used
 
 - HTML5
-- SCSS(Sass)
-- Parcel
-- Git & GitHub
+- Sass
 
 ## 📌Preview
 
