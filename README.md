@@ -1,4 +1,16 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://wolfymmm.github.io/bang-olufsen-landing-page/)
+# BANG & OLUFSEN landing-page
+
+A modern, responsive landing page for an electronics store. The page showcases product categories, featured items, and contact information, with a clean and intuitive interface.
+
+## 🧩Technologies Used
+
+- HTML5
+- SCSS(Sass)
+- Parcel
+- Git & GitHub
+
+## 📌Preview
+
+[DEMO Link](https://wolfymmm.github.io/layout_landing-page/)
+
+[Figma Design](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-211&t=mjyWjlekagaP07ng-1)
